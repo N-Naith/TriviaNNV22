@@ -70,6 +70,7 @@ public class Game : MonoBehaviour
             nivelPregunta++;
             if (nivelPregunta == bancoPreguntas.Length)
             {
+                Debug.Log("Ganaste");
                 SceneManager.LoadScene("Gane");
             }
             else
