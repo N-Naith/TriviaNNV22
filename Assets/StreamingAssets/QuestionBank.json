@@ -3,7 +3,7 @@
     "nombreDificultad": "Super Easy",
     "preguntas": [
       {
-        "enunciado": "Un viejo vivía solo en una cabaña pequeña. Un cierto jueves por la mañana, mientras el cartero entregaba una carta, se enteró de que el anciano había sido asesinado. Inmediatamente llama a la policía. Cuando los policías lleguen a la escena. Encuentran dos botellas de leche, un periódico del lunes, un catálogo, folletos y correo sin abrir. La policía encuentra al sospechoso. ¿Quién es el sospechoso y por qué?",
+        "enunciado": "Un viejo vivía solo en una cabaña pequeña. Un cierto jueves por la mañana, mientras el cartero entregaba una carta, se enteró de que el anciano había sido asesinado. Inmediatamente llama a la policía. Cuando los policías lleguen a la escena. Encuentran dos botellas de leche, un periódico del lunes, un catálogo, folletos y correo sin abrir. La policía encuentra al sospechoso.\n ¿Quién es el sospechoso?",
         "respuestas": [
           { "texto": "El cartero" },
           { "texto": "El lechero" },
@@ -13,44 +13,44 @@
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "enunciado se2",
+        "enunciado": "Un barco japonés estaba en camino hacia el mar abierto. El capitán se fue encontrado muerto en la ducha. El oficial preguntó a cada uno  de los sospechosos donde estaban y qué habían hecho en los últimos 15 minutos.\n El marinero dijo: «Yo estaba en el mástil corrigiendo la bandera que estaba al revés por error.»\n El cocinero dijo: «Yo estaba en la habitación del refrigerador obteniendo carne para cocinar». \n El Ingeniero, «Yo estaba trabajando en el motor del generador.» \nEl oficial de radio dijo: «Estaba enviando mensajes a una compañía sobre la llegada»",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "El marinero" },
+          { "texto": "El cocinero" },
+          { "texto": "El Ingeniero" },
+          { "texto": "El oficial" }
         ],
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "enunciado se4",
+        "enunciado": "La señora Smith llamó a la policía denunciando que le habían robado un collar antiguo alguna de sus criadas, Mina, Selena o Marta. Cuando los oficiales llegaron al lugar del crimen vieron que la puerta no estaba forzada. Sólo había una ventana rota. Adentro de la casa todo estaba hecho un desastre y la alfombra tenía muchas huellas sucias.\n ¿Quién fue arrestada?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Selena" },
+          { "texto": "Marta" },
+          { "texto": "Mina" },
+          { "texto": "Señora Smith" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 3
       },
       {
-        "enunciado": "enunciado se5",
+        "enunciado": "En las afueras de una ciudad vivía un señor de tercera edad que jamás se alejaba mucho de su hogar. Un viernes de verano, un repartidor de correos se acercó a su casa y llamó al hombre por su nombre, pero aquel no contestó. Se asomó por la ventana y lo vio acostado en el piso en un charco de sangre. El cartero llamó a la policía. Al llegar al lugar, el oficial encontró al lado de la casa dos botellas con leche tibia, una con la leche fría y un diario del día de martes.",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "El cartero" },
+          { "texto": "El lechero" },
+          { "texto": "Repartidor del periódico" },
+          { "texto": "Vendedor de catáogogos" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 2
       },
       {
-        "enunciado": "enunciado 1",
+        "enunciado": "El primer día del nuevo año escolar, durante el último recreo en uno de los salones fue encontrado el cuerpo del maestro de geografía. La policía tenía 4 sospechosos: el jardinero, el maestro de matemáticas, el maestro de deportes y el director de la escuela.\n Todos dijeron qué hacían durante el asesinato:\n El jardinero estaba podando arbustos en el patio trasero\n El maestro de matemáticas estaba haciendo el examen de medio año.\n El maestro de deportes estaba jugando baloncesto con los alumnos.\n El director pasó todo el día en su oficina.",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "El jardinero" },
+          { "texto": "Maestro de matemáticas" },
+          { "texto": "Maestro de deportes" },
+          { "texto": "El director" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 1
       }
     ]
   },
@@ -58,54 +58,54 @@
     "nombreDificultad": "Easy",
     "preguntas": [
       {
-        "enunciado": "enunciado e1",
+        "enunciado": "Una pareja fueron de vacaciones tras su boda, como regalo de la madre y el padre de la novia. Per el marido llamó a su agente de viajes. En el viaje la novia se encontró con un desafortunado accidente y murió.\n ¿A quien arrestó la policia?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "El esposo" },
+          { "texto": "El agente" },
+          { "texto": "La madre" },
+          { "texto": "El padre" }
         ],
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "enunciado e2",
+        "enunciado": "En el primer día de cole, alguien ha asesinado a una pobre niña. La policía sospecha de 4 profesores así que los interroga. Estos explican qué estaban haciendo a las 8 de la mañana.\n El profesor Walter estaba conduciendo hacia la escuela y llegó tarde.\n El profesor Thomas estaba revisando los exámenes de inglés del otro día.\n El profesor Benjamin estaba leyendo el diario.\n El profesor Calin estaba con su mujer en el despacho.",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Walter" },
+          { "texto": "Thomas" },
+          { "texto": "Benjamin" },
+          { "texto": "Calin" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "El primer día del nuevo año escolar, durante el último recreo en uno de los salones fue encontrado el cuerpo del maestro de geografía. La policía tenía 4 sospechosos: el jardinero, el maestro de matemáticas, el maestro de deportes y el director de la escuela.\n Todos dijeron qué hacían durante el asesinato:\n El jardinero estaba podando arbustos en el patio trasero\n El maestro de matemáticas estaba haciendo el examen de medio año.\n El maestro de deportes estaba jugando baloncesto con los alumnos.\n El director pasó todo el día en su oficina.",
+        "respuestas": [
+          { "texto": "El jardinero" },
+          { "texto": "Maestro de matemáticas" },
+          { "texto": "Maestro de deportes" },
+          { "texto": "El director" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "Un barco japonés estaba en camino hacia el mar abierto. El capitán se fue encontrado muerto en la ducha. El oficial preguntó a cada uno  de los sospechosos donde estaban y qué habían hecho en los últimos 15 minutos.\n El marinero dijo: «Yo estaba en el mástil corrigiendo la bandera que estaba al revés por error.»\n El cocinero dijo: «Yo estaba en la habitación del refrigerador obteniendo carne para cocinar». \n El Ingeniero, «Yo estaba trabajando en el motor del generador.» \nEl oficial de radio dijo: «Estaba enviando mensajes a una compañía sobre la llegada»",
+        "respuestas": [
+          { "texto": "El marinero" },
+          { "texto": "El cocinero" },
+          { "texto": "El Ingeniero" },
+          { "texto": "El oficial" }
         ],
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "enunciado e3",
+        "enunciado": "La señora Smith llamó a la policía denunciando que le habían robado un collar antiguo alguna de sus criadas, Mina, Selena o Marta. Cuando los oficiales llegaron al lugar del crimen vieron que la puerta no estaba forzada. Sólo había una ventana rota. Adentro de la casa todo estaba hecho un desastre y la alfombra tenía muchas huellas sucias.\n ¿Quién fue arrestada?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Selena" },
+          { "texto": "Marta" },
+          { "texto": "Mina" },
+          { "texto": "Señora Smith" }
         ],
-        "respuestaCorrecta": 0
-      },
-      {
-        "enunciado": "enunciado e4",
-        "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
-        ],
-        "respuestaCorrecta": 0
-      },
-      {
-        "enunciado": "enunciado e5",
-        "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
-        ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 3
       }
     ]
   },
@@ -113,54 +113,54 @@
     "nombreDificultad": "Medium",
     "preguntas": [
       {
-        "enunciado": "enunciado m1",
+        "enunciado": "-¿Quién le disparó? -gritó un hombre mientras se precipitaba al hospital donde estaba su esposa.\n El hombre fue detenido por la policía que le preguntó dónde estaba la noche anterior que les dijo que pasaba la noche en casa de un amigo. Les dijo que cuando llamó para revisar a su esposa -quien se encontraba en la casa de sus padres-, la criada de la casa contestó la llamada y le dijo que su esposa había sido llevada al hospital.",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "el padre" },
+          { "texto": "La madre" },
+          { "texto": "La criada" },
+          { "texto": "El esposo" }
         ],
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "enunciado m2",
+        "enunciado": "Un buen día, de repente, una tormenta asola la ciudad. El incidente causa un apagón. Después de la tormenta, en la mansión más ostentosa de la ciudad, se encuentra el cadáver de una de las criadas.Cuando se le interrogó, el marido dijo que estaba leyendo libros en su dormitorio. La esposa alegó que en el momento del incidente miraba la tele. El mayordomo comentó que estaba calculando el presupuesto familiar en su cuarto.\n",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "El mayordomo" },
+          { "texto": "Otra criada" },
+          { "texto": "La esposa" },
+          { "texto": "El esposo" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 2
       },
       {
-        "enunciado": "enunciado m3",
+        "enunciado": "Un hombre ha sido encontrado muerto en su departamento. Quien ha avisado a la policía es su amigo. Este cuenta que se dirigía hacia la casa de la víctima cuando vio que la ventana que daba al despacho estaba empañada por el hielo. Al limpiarla y mirar dentro, vio el cadáver de su amigo y por eso llamó a la policía.",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "El policia" },
+          { "texto": "El casero" },
+          { "texto": "Nadie" },
+          { "texto": "El amigo" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 3
       },
       {
-        "enunciado": "enunciado m4",
+        "enunciado": "Hay cinco personas. Una de ellas disparó y mató a uno de los otros. Esto es lo que sabemos sobre cada uno de ellos:\n Dan corrió el maratón de Nueva York ayer con uno de los hombres inocentes.\n Mike se planteó ser granjero antes de mudarse a la ciudad.\n Jeff es un reconocido consultor informático y quiere instalarle a Ben su nueva computadora la semana que viene.\n Al asesino le amputaron una pierna hace unos días. \nBen conoció a Jack por primera vez hace seis meses.\n Jack ha estado recluido desde el crimen. \nDan solía beber mucho.\n Ben y Jeff armaron sus últimas computadoras juntos.",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Ben" },
+          { "texto": "Jack" },
+          { "texto": "Mike" },
+          { "texto": "Jeff" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 3
       },
       {
-        "enunciado": "enunciado m5",
+        "enunciado": "hay cuatro sospechosos de haber cometido un crimen. Ninguno de ellos reconoce haberlo hecho: o lo niegan o culpan a otros.\n ¿Quién miente?\n las siguientes afirmaciones al ser interrogados por la policía: \nARTURO: David lo hizo. \nDAVID: Antonio lo hizo. \nGUSTAVO: Yo no lo hice. \nANTONIO: David mintió cuando dijo que lo hice.",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "ARTURO" },
+          { "texto": "DAVID" },
+          { "texto": "GUSTAVO" },
+          { "texto": "ANTONIO" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 2
       }
     ]
   },
@@ -168,54 +168,54 @@
     "nombreDificultad": "Hard",
     "preguntas": [
       {
-        "enunciado": "enunciado h1",
+        "enunciado": "Un químico famoso fue encontrado asesinado. La policía sabía que dos personas estaban involucradas en el asesinato. Encontraron una nota escrita por el químico que decía: «26 -3-58 / 28-27-57-16». Después de leer la nota, la policía atrapó de inmediato a los asesinos. ¿Quién es el sospechoso?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Felipe y Nick" },
+          { "texto": "Felice y Nicolás" },
+          { "texto": "Federico Nils" },
+          { "texto": "Felix y Nicole" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 1
       },
       {
-        "enunciado": "enunciado h2",
+        "enunciado": "El primer día del nuevo año escolar, durante el último recreo en uno de los salones fue encontrado el cuerpo del maestro de geografía. La policía tenía 4 sospechosos: el jardinero, el maestro de matemáticas, el maestro de deportes y el director de la escuela.\n Todos dijeron qué hacían durante el asesinato:\n El jardinero estaba podando arbustos en el patio trasero\n El maestro de matemáticas estaba haciendo el examen de medio año.\n El maestro de deportes estaba jugando baloncesto con los alumnos.\n El director pasó todo el día en su oficina.",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "El jardinero" },
+          { "texto": "Maestro de matemáticas" },
+          { "texto": "Maestro de deportes" },
+          { "texto": "El director" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 1
       },
       {
-        "enunciado": "enunciado h3",
+        "enunciado": "Hay cinco personas. Una de ellas disparó y mató a uno de los otros. Esto es lo que sabemos sobre cada uno de ellos:\n Dan corrió el maratón de Nueva York ayer con uno de los hombres inocentes.\n Mike se planteó ser granjero antes de mudarse a la ciudad.\n Jeff es un reconocido consultor informático y quiere instalarle a Ben su nueva computadora la semana que viene.\n Al asesino le amputaron una pierna hace unos días. \nBen conoció a Jack por primera vez hace seis meses.\n Jack ha estado recluido desde el crimen. \nDan solía beber mucho.\n Ben y Jeff armaron sus últimas computadoras juntos.",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Ben" },
+          { "texto": "Jack" },
+          { "texto": "Mike" },
+          { "texto": "Jeff" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 3
       },
       {
-        "enunciado": "enunciado h4",
+        "enunciado": "En las afueras de una ciudad vivía un señor de tercera edad que jamás se alejaba mucho de su hogar. Un viernes de verano, un repartidor de correos se acercó a su casa y llamó al hombre por su nombre, pero aquel no contestó. Se asomó por la ventana y lo vio acostado en el piso en un charco de sangre. El cartero llamó a la policía. Al llegar al lugar, el oficial encontró al lado de la casa dos botellas con leche tibia, una con la leche fría y un diario del día de martes.",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "El cartero" },
+          { "texto": "El lechero" },
+          { "texto": "Repartidor del periódico" },
+          { "texto": "Vendedor de catáogogos" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 2
       },
       {
-        "enunciado": "enunciado h5",
+        "enunciado": "La señora Smith llamó a la policía denunciando que le habían robado un collar antiguo alguna de sus criadas, Mina, Selena o Marta. Cuando los oficiales llegaron al lugar del crimen vieron que la puerta no estaba forzada. Sólo había una ventana rota. Adentro de la casa todo estaba hecho un desastre y la alfombra tenía muchas huellas sucias.\n ¿Quién fue arrestada?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Selena" },
+          { "texto": "Marta" },
+          { "texto": "Mina" },
+          { "texto": "Señora Smith" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 3
       }
     ]
   },
@@ -223,54 +223,54 @@
     "nombreDificultad": "Extra Hard",
     "preguntas": [
       {
-        "enunciado": "enunciado eh1",
+        "enunciado": "Una chica conoce a un chico en el funeral de su madre. Le hacía mucho caso, pese a las circunstancias. Por desgracia, estaba ocupada atendiendo a los visitantes y no pudo pedirle el número teléfono del chico. Pregunta al resto de invitados que atendieron a su funeral, pero nadie sabe quién es el chico. Días después, la hermana de la chica muere, y la policía sospecha que fue un asesinato. \n¿Quién mató a la hermana?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "La hermana" },
+          { "texto": "El chico" },
+          { "texto": "Nadie" },
+          { "texto": "La madre" }
         ],
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "enunciado eh2",
+        "enunciado": "hay cuatro sospechosos de haber cometido un crimen. Ninguno de ellos reconoce haberlo hecho: o lo niegan o culpan a otros.\n ¿Quién miente?\n las siguientes afirmaciones al ser interrogados por la policía: \nARTURO: David lo hizo. \nDAVID: Antonio lo hizo. \nGUSTAVO: Yo no lo hice. \nANTONIO: David mintió cuando dijo que lo hice.",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "ARTURO" },
+          { "texto": "DAVID" },
+          { "texto": "GUSTAVO" },
+          { "texto": "ANTONIO" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "Hay cinco personas. Una de ellas disparó y mató a uno de los otros. Esto es lo que sabemos sobre cada uno de ellos:\n Dan corrió el maratón de Nueva York ayer con uno de los hombres inocentes.\n Mike se planteó ser granjero antes de mudarse a la ciudad.\n Jeff es un reconocido consultor informático y quiere instalarle a Ben su nueva computadora la semana que viene.\n Al asesino le amputaron una pierna hace unos días. \nBen conoció a Jack por primera vez hace seis meses.\n Jack ha estado recluido desde el crimen. \nDan solía beber mucho.\n Ben y Jeff armaron sus últimas computadoras juntos.",
+        "respuestas": [
+          { "texto": "Ben" },
+          { "texto": "Jack" },
+          { "texto": "Mike" },
+          { "texto": "Jeff" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Una pareja fueron de vacaciones tras su boda, como regalo de la madre y el padre de la novia. Per el marido llamó a su agente de viajes. En el viaje la novia se encontró con un desafortunado accidente y murió.\n ¿A quien arrestó la policia?",
+        "respuestas": [
+          { "texto": "El esposo" },
+          { "texto": "El agente" },
+          { "texto": "La madre" },
+          { "texto": "El padre" }
         ],
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "enunciado eh3",
+        "enunciado": "Un químico famoso fue encontrado asesinado. La policía sabía que dos personas estaban involucradas en el asesinato. Encontraron una nota escrita por el químico que decía: «26 -3-58 / 28-27-57-16». Después de leer la nota, la policía atrapó de inmediato a los asesinos. ¿Quién es el sospechoso?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Felipe y Nick" },
+          { "texto": "Felice y Nicolás" },
+          { "texto": "Federico Nils" },
+          { "texto": "Felix y Nicole" }
         ],
-        "respuestaCorrecta": 0
-      },
-      {
-        "enunciado": "enunciado eh4",
-        "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
-        ],
-        "respuestaCorrecta": 0
-      },
-      {
-        "enunciado": "enunciado eh5",
-        "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
-        ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 1
       }
     ]
   }
